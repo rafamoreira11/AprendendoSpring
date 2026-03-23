@@ -45,11 +45,11 @@ Aqui você encontrará exemplos práticos, anotações e pequenos projetos que d
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rafamoreira11/AprendendoSpring.git
 
 2. Acesse a pasta:
 
-cd seu-repositorio
+cd AprendendoSpring
 
 3. Execute o projeto:
 
